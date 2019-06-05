@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100vw;
+  background: #000000;
+  display: flex;
+  justify-content: center;
+}
+
+.img {
+  transform: rotate(180deg);
+  position: absolute;
+  width: 100%;
+  top:-620px;
+}
+
+.img>img {
+  width: 100%;
+}
+
+.img2 {
+  position: absolute;
+  left:500px;
+  top:400px;
+}
+
+.img2>img {
+  width: 60%;
+}
+
+.img3>a {
+  position: absolute;
+  left:50px;
+  top:50px;
+}
+
+.img3>img {
+  width: 100%;
+
+}
+
+
+.img4 {
+  position: absolute;
+  top:1100px;
+  z-index: -1;
+}
+
+.img4>img {
+  width: 100%;
+}
+
+.img5 {
+  position: absolute;
+  top:1150px;
+  left:350px;
+}
+
+.img5>img {
+  width: 300px;
+  height: 300px;
+}
+
+.img6 {
+  position: absolute;
+  top:1900px;
+}
+
+.img6>img {
+  width: 100%;
+}
+
+.img7 {
+  position: absolute;
+  top:2600px;
+}
+
+.img7>img {
+  width: 100%;
+}
+
+.img8 {
+  position: absolute;
+  top:3550px;
+  left:-300px;
+  z-index: -1;
+}
+
+.img8>img {
+  width: 200%;
+}
+
+.img9 {
+  position: absolute;
+  top:4600px;
+  z-index: -2;
+  width: 100%;
+}
+
+.img9>img {
+  width: 100%;
+}
+
+.img10 {
+  position: absolute;
+  top:4990px;
+  left:527.5px;
+
+}
+
+.img10>img {
+  width: 63.5%;
+}
+
+.img11 {
+  position: absolute;
+  top:6200px;
+}
+
+.img11>img {
+  width: 100%;
+}

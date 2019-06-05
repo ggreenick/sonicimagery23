@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100vw;
+  background: #D4E1EA;
+  display: flex;
+  justify-content: center;
+}
+
+.img>a {
+  position: absolute;
+  left:50px;
+  top:50px;
+}
+
+.img>img {
+  width: 100%;
+
+}
+
+.img2 {
+  position: absolute;
+top:329px;
+}
+
+.img2>img {
+  width: 100%;
+}
+
+.img3 {
+  position: absolute;
+top:1800px;
+width: 100%;
+}
+
+.img3>img {
+  width: 100%;
+}
+
+
+.img4 {
+  position: absolute;
+top:2800px;
+width: 100%;
+}
+
+.img4>img {
+  width: 100%;
+}
+
+.img5 {
+  position: absolute;
+top:2800px;
+}
+
+.img5>img {
+  width: 100%;
+}
+
+.img6 {
+  position: absolute;
+top:4800px;
+}
+
+.img6>img {
+  width: 100%;
+}
+
+.img7 {
+  position: absolute;
+top:4800px;
+  width: 200%;
+}
+
+.img7>img {
+  width: 100%;
+}
+
+.img8 {
+    transform: rotate(90deg);
+  position: absolute;
+top:7150px;
+left:-800px;
+z-index: -2;
+}
+
+.img8>img {
+  width: 100%;
+}

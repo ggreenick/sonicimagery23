@@ -20,9 +20,9 @@ body {
 .img2>img {
   transform: rotate(180deg);
   position: absolute;
-  width: 100%;
+  width: 106%;
   top:-800px;
-  right: 0px;
+  right: -100px;
 }
 
 .img3>img {
@@ -37,4 +37,39 @@ body {
   width: 100%;
   top: 810px;
   right: 0px;
+}
+
+.img5>img {
+  position: absolute;
+  width: 100%;
+  top: 3600px;
+  right: 0px;
+}
+
+.img6>img {
+  position: absolute;
+  width: 30%;
+  top: 4000px;
+  right: 0px;
+}
+
+.img7>img {
+  position: absolute;
+  width: 30%;
+  top: 5000px;
+  right: 0px;
+}
+
+.img8>img {
+  position: absolute;
+  width: 35%;
+  top: 4000px;
+  left: 0px;
+}
+
+.img9>img {
+  position: absolute;
+  width: 35%;
+  top: 5000px;
+  left: 0px;
 }

@@ -5,13 +5,36 @@
 body {
   overflow-x: hidden;
   width: 100vw;
-  background: #D4E1EA;
+  background: #845222;
   display: flex;
   justify-content: center;
 }
 
-.img>a {
+.img {
   position: absolute;
   left:50px;
   top:50px;
+  z-index: 999;
+}
+
+.img2>img {
+  transform: rotate(180deg);
+  position: absolute;
+  width: 100%;
+  top:-800px;
+  right: 0px;
+}
+
+.img3>img {
+  position: absolute;
+  width: 100%;
+  top: 460px;
+  right: 0px;
+}
+
+.img4>img {
+  position: absolute;
+  width: 100%;
+  top: 810px;
+  right: 0px;
 }

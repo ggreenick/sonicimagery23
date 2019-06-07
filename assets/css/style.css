@@ -61,7 +61,7 @@ body {
   left: 950px;
 }
 
-.img7>img {
+.img7>a>img {
   position: relative;
     width: 500px;
     height: 500px;

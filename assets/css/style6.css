@@ -9,3 +9,9 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.img>a {
+  position: absolute;
+  left:50px;
+  top:50px;
+}

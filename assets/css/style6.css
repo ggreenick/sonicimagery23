@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100vw;
+  background: #D4E1EA;
+  display: flex;
+  justify-content: center;
+}
